@@ -1,0 +1,8 @@
+{
+    "version": "b0.0.1",
+    "config": 
+    {
+        "language": "dev",
+        "dev_settings": true
+    }
+}
